@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=kuhamaven&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=kuhamaven&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kuhamaven&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=kuhamaven&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
