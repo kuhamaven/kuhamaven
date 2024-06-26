@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [[Portfolio WIP]](https://portfolio-8dcv0f8os-kuhamaven.vercel.app)
+
+-->
+
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=kuhamaven&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=kuhamaven&show_icons=true&theme=radical)
 
